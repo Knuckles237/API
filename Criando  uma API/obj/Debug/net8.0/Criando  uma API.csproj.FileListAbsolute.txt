@@ -1,0 +1,36 @@
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\bin\Debug\net8.0\Criando  uma API.staticwebassets.endpoints.json
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\bin\Debug\net8.0\Criando  uma API.exe
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\bin\Debug\net8.0\Criando  uma API.deps.json
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\bin\Debug\net8.0\Criando  uma API.runtimeconfig.json
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\bin\Debug\net8.0\Criando  uma API.dll
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\bin\Debug\net8.0\Criando  uma API.pdb
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\Criando  uma API.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\Criando  uma API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\Criando  uma API.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\Criando  uma API.AssemblyInfo.cs
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\Criando  uma API.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\Criando  uma API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\Criando  uma API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\scopedcss\bundle\Criando  uma API.styles.css
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\staticwebassets\msbuild.Criando  uma API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\staticwebassets\msbuild.Criando  uma API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\staticwebassets\msbuild.build.Criando  uma API.props
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Criando  uma API.props
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Criando  uma API.props
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\Criando .7F33CED5.Up2Date
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\Criando  uma API.dll
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\refint\Criando  uma API.dll
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\Criando  uma API.pdb
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\Criando  uma API.genruntimeconfig.cache
+C:\Users\admin\source\repos\Criando  uma API\Criando  uma API\obj\Debug\net8.0\ref\Criando  uma API.dll
