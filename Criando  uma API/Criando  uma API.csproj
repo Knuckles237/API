@@ -8,13 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MySql.Data.EntityFramework" Version="9.2.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Helpers\" />
-    <Folder Include="Model\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
 </Project>
