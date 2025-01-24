@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41740E30-74CE-4CF6-979C-EB72BDA77A28}|Criando  uma API\\Criando  uma API.csproj|c:\\users\\admin\\source\\repos\\criando  uma api\\criando  uma api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740E30-74CE-4CF6-979C-EB72BDA77A28}|Criando  uma API\\Criando  uma API.csproj|solutionrelative:criando  uma api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41740E30-74CE-4CF6-979C-EB72BDA77A28}|Criando  uma API\\Criando  uma API.csproj|c:\\users\\admin\\source\\repos\\criando  uma api\\criando  uma api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41740E30-74CE-4CF6-979C-EB72BDA77A28}|Criando  uma API\\Criando  uma API.csproj|solutionrelative:criando  uma api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41740E30-74CE-4CF6-979C-EB72BDA77A28}|Criando  uma API\\Criando  uma API.csproj|c:\\users\\admin\\source\\repos\\criando  uma api\\criando  uma api\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740E30-74CE-4CF6-979C-EB72BDA77A28}|Criando  uma API\\Criando  uma API.csproj|solutionrelative:criando  uma api\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41740E30-74CE-4CF6-979C-EB72BDA77A28}|Criando  uma API\\Criando  uma API.csproj|c:\\users\\admin\\source\\repos\\criando  uma api\\criando  uma api\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740E30-74CE-4CF6-979C-EB72BDA77A28}|Criando  uma API\\Criando  uma API.csproj|solutionrelative:criando  uma api\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41740E30-74CE-4CF6-979C-EB72BDA77A28}|Criando  uma API\\Criando  uma API.csproj|c:\\users\\admin\\source\\repos\\criando  uma api\\criando  uma api\\repositories\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740E30-74CE-4CF6-979C-EB72BDA77A28}|Criando  uma API\\Criando  uma API.csproj|solutionrelative:criando  uma api\\repositories\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41740E30-74CE-4CF6-979C-EB72BDA77A28}|Criando  uma API\\Criando  uma API.csproj|c:\\users\\admin\\source\\repos\\criando  uma api\\criando  uma api\\helpers\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740E30-74CE-4CF6-979C-EB72BDA77A28}|Criando  uma API\\Criando  uma API.csproj|solutionrelative:criando  uma api\\helpers\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\Criando  uma API\\Program.cs",
+              "RelativeDocumentMoniker": "Criando  uma API\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\Criando  uma API\\Program.cs",
+              "RelativeToolTip": "Criando  uma API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:33:10.81Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\Criando  uma API\\appsettings.json",
+              "RelativeDocumentMoniker": "Criando  uma API\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\Criando  uma API\\appsettings.json",
+              "RelativeToolTip": "Criando  uma API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T23:19:09.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigurationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\Criando  uma API\\Helpers\\ConfigurationHelper.cs",
+              "RelativeDocumentMoniker": "Criando  uma API\\Helpers\\ConfigurationHelper.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\Criando  uma API\\Helpers\\ConfigurationHelper.cs",
+              "RelativeToolTip": "Criando  uma API\\Helpers\\ConfigurationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:38:00.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarefaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\Criando  uma API\\Repositories\\TarefaRepositorio.cs",
+              "RelativeDocumentMoniker": "Criando  uma API\\Repositories\\TarefaRepositorio.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\Criando  uma API\\Repositories\\TarefaRepositorio.cs",
+              "RelativeToolTip": "Criando  uma API\\Repositories\\TarefaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:16:58.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\Criando  uma API\\Model\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Criando  uma API\\Model\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\Criando  uma API\\Model\\Tarefa.cs",
+              "RelativeToolTip": "Criando  uma API\\Model\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:14:57.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\Criando  uma API\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "Criando  uma API\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Criando  uma API\\Criando  uma API\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "Criando  uma API\\Controllers\\TarefaController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADgvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:12:42.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
