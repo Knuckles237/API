@@ -194,6 +194,16 @@
             "type": "string",
             "nullable": true
           },
+          "dataCriacao": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "dataConclusao": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
           "prazo": {
             "type": "string",
             "format": "date-time"

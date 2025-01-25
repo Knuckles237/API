@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Criando  uma API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a758b360b210e2473e76f78b4421b6a28d131169")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+336ea878a6a6d021e80916425b963cae5b47b8a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Criando  uma API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Criando  uma API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
